@@ -6,7 +6,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foxsick&layout=compact)](https://https://github.com/Foxsick/Foxsick)
  
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Foxsick&repo=MY_Course)](https://https://github.com/Foxsick/MY_Course)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Foxsick&repo=MY_Course)](https://github.com/Foxsick/MY_Course)
 <!--
 **Foxsick/Foxsick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
