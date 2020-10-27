@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, i'm Artem 👋👋👋👋👋
+- 🔭 I’m currently working on labview
+- 🌱 I’m currently learning a c++ and labview
 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Foxsick&show_icons=true&theme=synthwave)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foxsick&layout=compact)](https://https://github.com/Foxsick/Foxsick)
+ 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Foxsick&repo=MY_Course)](https://https://github.com/Foxsick/MY_Course)
 <!--
 **Foxsick/Foxsick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
