@@ -4,9 +4,9 @@
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Foxsick&show_icons=true&theme=synthwave)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foxsick&layout=compact&bg_color=3b253d&title_color=f4f2f5&text_color=f736d4)](https://https://github.com/Foxsick/Foxsick)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foxsick&layout=compact&bg_color=3b253d&title_color=f4f2f5&text_color=f736d4&icon_color=b57f21)](https://https://github.com/Foxsick/Foxsick)
  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Foxsick&repo=MY_Course&hide_rank=True&bg_color=3b253d&title_color=f4f2f5&text_color=f736d4)](https://github.com/Foxsick/MY_Course)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Foxsick&repo=MY_Course&hide_rank=True&bg_color=3b253d&title_color=f4f2f5&text_color=f736d4&icon_color=b57f21)](https://github.com/Foxsick/MY_Course)
 
 <!--
 **Foxsick/Foxsick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
