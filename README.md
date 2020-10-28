@@ -1,4 +1,4 @@
-### Hi there, i'm Artem 👋👋👋👋👋
+### Hi, i'm Artem 👋👋👋👋👋
 - 🔭 I’m currently working on labview
 - 🌱 I’m currently learning a c++ and labview
 
